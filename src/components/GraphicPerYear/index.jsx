@@ -24,7 +24,7 @@ class GraphicPerYear extends Component {
             })}
           </tbody>
         </table> */}
-        <h2>Graphic Average Gap per Year:</h2>
+        <h2 className="h2">Graphic Average Gap (2007-2017):</h2>
         <img className="image" src={this.props.total} width="40%" />
       </div>
     );

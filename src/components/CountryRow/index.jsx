@@ -27,9 +27,17 @@ class CountryRow extends Component {
         <img onClick={this.show} src={this.props.img} alt={this.props.country} width="20%" />
         {this.state.active && (
           <div className="country-card-info">
-            <h2>Prediction to reach ZERO gender pay gap: {this.props.prediction}</h2>
+            <h4 className="prediction">
+              Prediction year to reach <strong>ZERO</strong> gender pay gap:{' '}
+            </h4>
+            <h2 className="prediction-number">{this.props.prediction}</h2>
+            <br />
             <h4>Country's Life Expectancy: {this.props.lifeExpectancy} </h4>
+
             <p>Will you be alive to see it? Do the math :)</p>
+
+            <hr />
+
             <GraphicPerYear total={this.props.total} />
             <IndustryData industries={this.props.industries} />
           </div>

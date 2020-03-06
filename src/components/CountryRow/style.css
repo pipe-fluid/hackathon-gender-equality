@@ -16,3 +16,23 @@
 img {
   border-radius: 1em;
 }
+
+.prediction-number {
+  font-size: 5em;
+  color: blueviolet;
+  margin-top: 0.5em;
+}
+
+.prediction {
+  margin-top: 1em;
+  font-size: 1em;
+}
+
+hr {
+  border: 1px solid grey;
+}
+
+.country-card:hover {
+  opacity: 0.9;
+  transform: scale(1.03);
+}
