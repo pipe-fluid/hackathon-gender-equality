@@ -1,0 +1,139 @@
+[
+  {
+    "country": "Denmark",
+    "prediction": 2072,
+    "lifeExpectancy": 81,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/800px-Flag_of_Denmark.svg.png",
+    "total": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506116/genderGap/total_denmark_fc4dme.png",
+    "industries": [
+      {
+        "administration": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506809/genderGap/Denmark/administration_denmark_ymijtx.png"
+      },
+
+      {
+        "education": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506809/genderGap/Denmark/education_denmark_s4guw8.png"
+      },
+
+      {
+        "financeAndInsurance": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506809/genderGap/Denmark/finance_denmark_i1upwc.png"
+      },
+      {
+        "informationAndCommunication": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506809/genderGap/Denmark/information_denmark_mu6xfx.png"
+      },
+
+      {
+        "scientificConsultancy": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506809/genderGap/Denmark/scientific_denmark_xq8wxv.png"
+      }
+    ]
+  },
+
+  {
+    "country": "Poland",
+    "prediction": 2026,
+    "lifeExpectancy": 77.7,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1600px-Flag_of_Poland.svg.png",
+    "total": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506116/genderGap/total_poland_ejkkvd.png",
+    "industries": [
+      {
+        "administration": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506750/genderGap/Poland/administration_poland_wdgho5.png"
+      },
+
+      {
+        "education": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506750/genderGap/Poland/education_poland_d175s4.png"
+      },
+
+      {
+        "financeAndInsurance": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506750/genderGap/Poland/finance_poland_cipqdt.png"
+      },
+
+      {
+        "informationAndCommunication": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506750/genderGap/Poland/information_poland_wsrwda.png"
+      },
+
+      {
+        "scientificConsultancy": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506750/genderGap/Poland/scientific_poland_qyrsja.png"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "prediction": 2046,
+    "lifeExpectancy": 82.6,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1600px-Flag_of_Sweden.svg.png",
+    "total": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506116/genderGap/total_sweden_xqeva1.png",
+    "industries": [
+      {
+        "administration": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506839/genderGap/Sweden/administration_sweden_yvsql5.png"
+      },
+
+      {
+        "education": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506839/genderGap/Sweden/education_sweden_q8clw2.png"
+      },
+      {
+        "financeAndInsurance": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506838/genderGap/Sweden/finance_sweden_drwaum.png"
+      },
+      {
+        "informationAndCommunication": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506838/genderGap/Sweden/information_sweden_rbn6px.png"
+      },
+
+      {
+        "scientificConsultancy": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506838/genderGap/Sweden/finance_sweden_drwaum.png"
+      }
+    ]
+  },
+
+  {
+    "country": "UK",
+    "prediction": 2796,
+    "lifeExpectancy": 81.3,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/800px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+    "total": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506116/genderGap/total_uk_w0fkj9.png",
+    "industries": [
+      {
+        "administration": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506865/genderGap/UK/administration_uk_a4somt.png"
+      },
+
+      {
+        "education": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506865/genderGap/UK/education_uk_tvqdbf.png"
+      },
+
+      {
+        "financeAndInsurance": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506865/genderGap/UK/finance_uk_ogyekc.png"
+      },
+
+      {
+        "informationAndCommunication": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506865/genderGap/UK/information_uk_kr8lga.png"
+      },
+
+      {
+        "scientificConsultancy": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506865/genderGap/UK/scientific_uk_jevlv3.png"
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "prediction": 2080,
+    "lifeExpectancy": 7,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1920px-Flag_of_Norway.svg.png",
+    "total": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506116/genderGap/total_norway_x7rirf.png",
+    "industries": [
+      {
+        "administration": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506773/genderGap/Norway/administration_norway_hm6fab.png"
+      },
+
+      {
+        "education": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506773/genderGap/Norway/education_norway_iud6tt.png"
+      },
+
+      {
+        "financeAndInsurance": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506773/genderGap/Norway/finance__norway_yfmycl.png"
+      },
+      {
+        "informationAndCommunication": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506773/genderGap/Norway/information_norway_h2fqib.png"
+      },
+      {
+        "scientificConsultancy": "https://res.cloudinary.com/dq4jevckc/image/upload/v1583506773/genderGap/Norway/scientific_norway_jn8p7h.png"
+      }
+    ]
+  }
+]

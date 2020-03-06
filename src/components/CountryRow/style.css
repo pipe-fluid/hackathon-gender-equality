@@ -1,0 +1,18 @@
+.country-card {
+  margin-top: 5em;
+}
+
+.country-card-info {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  box-shadow: 0 0 1em -0.5em #4053c2a0;
+  border-radius: 0.5em;
+  overflow: hidden;
+  padding: 1em;
+  margin: 4em 6em;
+}
+
+img {
+  border-radius: 1em;
+}
